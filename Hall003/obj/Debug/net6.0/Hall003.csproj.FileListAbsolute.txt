@@ -1,0 +1,16 @@
+D:\Seminar002\Hall003\obj\Debug\net6.0\Hall003.GlobalUsings.g.cs
+D:\Seminar002\Hall003\obj\Debug\net6.0\Hall003.csproj.AssemblyReference.cache
+D:\Seminar002\Hall003\obj\Debug\net6.0\Hall003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar002\Hall003\obj\Debug\net6.0\Hall003.AssemblyInfoInputs.cache
+D:\Seminar002\Hall003\obj\Debug\net6.0\Hall003.AssemblyInfo.cs
+D:\Seminar002\Hall003\obj\Debug\net6.0\Hall003.csproj.CoreCompileInputs.cache
+D:\Seminar002\Hall003\bin\Debug\net6.0\Hall003.exe
+D:\Seminar002\Hall003\bin\Debug\net6.0\Hall003.deps.json
+D:\Seminar002\Hall003\bin\Debug\net6.0\Hall003.runtimeconfig.json
+D:\Seminar002\Hall003\bin\Debug\net6.0\Hall003.dll
+D:\Seminar002\Hall003\bin\Debug\net6.0\ref\Hall003.dll
+D:\Seminar002\Hall003\bin\Debug\net6.0\Hall003.pdb
+D:\Seminar002\Hall003\obj\Debug\net6.0\Hall003.dll
+D:\Seminar002\Hall003\obj\Debug\net6.0\ref\Hall003.dll
+D:\Seminar002\Hall003\obj\Debug\net6.0\Hall003.pdb
+D:\Seminar002\Hall003\obj\Debug\net6.0\Hall003.genruntimeconfig.cache
