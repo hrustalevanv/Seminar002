@@ -1,0 +1,16 @@
+D:\Seminar003\Task002\bin\Debug\net6.0\Task002.exe
+D:\Seminar003\Task002\bin\Debug\net6.0\Task002.deps.json
+D:\Seminar003\Task002\bin\Debug\net6.0\Task002.runtimeconfig.json
+D:\Seminar003\Task002\bin\Debug\net6.0\Task002.dll
+D:\Seminar003\Task002\bin\Debug\net6.0\ref\Task002.dll
+D:\Seminar003\Task002\bin\Debug\net6.0\Task002.pdb
+D:\Seminar003\Task002\obj\Debug\net6.0\Task002.GlobalUsings.g.cs
+D:\Seminar003\Task002\obj\Debug\net6.0\Task002.csproj.AssemblyReference.cache
+D:\Seminar003\Task002\obj\Debug\net6.0\Task002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar003\Task002\obj\Debug\net6.0\Task002.AssemblyInfoInputs.cache
+D:\Seminar003\Task002\obj\Debug\net6.0\Task002.AssemblyInfo.cs
+D:\Seminar003\Task002\obj\Debug\net6.0\Task002.csproj.CoreCompileInputs.cache
+D:\Seminar003\Task002\obj\Debug\net6.0\Task002.dll
+D:\Seminar003\Task002\obj\Debug\net6.0\ref\Task002.dll
+D:\Seminar003\Task002\obj\Debug\net6.0\Task002.pdb
+D:\Seminar003\Task002\obj\Debug\net6.0\Task002.genruntimeconfig.cache
