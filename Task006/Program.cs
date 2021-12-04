@@ -8,3 +8,4 @@ else
 {
     Console.WriteLine("Нечетное");
 }
+
